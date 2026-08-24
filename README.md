@@ -1,6 +1,5 @@
 <div align="right">
   <a href="./README.md">🇧🇷 PT-BR</a> | 
-  <a href="./README_EN.md">🇺🇸 EN</a>
 </div>
 
 <h3 align="center">Desenvolvedor Back-End</h3>
@@ -27,7 +26,7 @@
 
 **Backend**<br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,kotlin" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,go,rust" alt="Backend" />
 </a>
 <br><br>
 
